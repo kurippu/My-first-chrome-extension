@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Music Downloader?",
+  "version": "1.0.0",
+  "description": "I hope this works.",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [],
+  "icons":{
+
+    "16":"icons/imresizer-smiski-hippers_secret-figure_600x (1).png" ,
+    "32":"icons/imresizer-smiski-hippers_secret-figure_600x (3).png",
+    "48": "icons/imresizer-smiski-hippers_secret-figure_600x (2).png"
+    
+  }
+}
